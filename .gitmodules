@@ -1,0 +1,3 @@
+[submodule "trac2gitlab"]
+	path = trac2gitlab
+	url = https://github.com/Soullivaneuh/trac2gitlab.git
